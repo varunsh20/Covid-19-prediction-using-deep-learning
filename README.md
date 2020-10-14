@@ -4,3 +4,7 @@ The dataset contains two different types of X-ray images of normal and corona in
 I have used CNN and mlp's to create my model.
 Aim of the model is to classify a given X-ray image into one of the two classes 'Covid':0 and 'Normal':1.
 The model was able to give almost 97% accuracy on training data and 98% accuracy on validation data.
+
+The google drive link to the dataset is given below:
+
+https://drive.google.com/drive/folders/1bdCYc3nEcs8SFUGMriO_Zr8KXB4K6EXw?usp=sharing
